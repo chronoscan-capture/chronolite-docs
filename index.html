@@ -1,0 +1,170 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+  <!--https://dev.materialdesignicons.com/getting-started/webfont-->
+  <link rel="stylesheet" href="https://cdn.materialdesignicons.com/5.7.55/css/materialdesignicons.min.css">
+  <!--<link href="https://fonts.googleapis.com/icon?family=Material+Icons|Material+Icons+Outlined|Material+Icons+Two+Tone|Material+Icons+Round|Material+Icons+Sharp" rel="stylesheet"/>-->
+  <link rel="shortcut icon" href="./favicon.ico"> 
+  <title>Chronux documentation</title>
+</head>
+<body>
+  <div data-app id="main">Please wait...</div>
+  <script>
+    window.$docsify = {
+      el: "#main",
+      // repo: 'https://github.com/chronoscan-capture/chronux-docs.git',
+      name: 'Chronux/docsify',
+      logo: './images/clock_forward_40.png',
+      themeColor: '#4d90fe',// Chronoscan blue,
+      loadSidebar: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md'
+      },
+      search: 'auto', // default
+      // complete configuration parameters
+      search: {
+        maxAge: 0, //  86400000, // Expiration time, the default one day
+        paths: 'auto',
+        placeholder: 'Type to search',
+        noData: 'No Results!',
+        // Headline depth, 1 - 6
+        depth: 6,
+        hideOtherSidebarContent: false, // whether or not to hide other sidebar content
+      },
+      pagination: {
+        previousText: 'Previous',
+        nextText: 'Next',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <!-- plugins -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!--expandible menu-->
+  <script src="//unpkg.com/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <!--https://www.npmjs.com/package/docsify-material-icons-->
+  <!--<script src="//unpkg.com/docsify-material-icons/dist/docsify-material-icons.min.js"></script>-->
+  
+  <style>
+    /* arrow sidebar style */
+    .sidebar-nav li {
+      position: relative;
+      margin: 0;
+      cursor: pointer;
+      text-transform: uppercase;
+    }
+
+    .sidebar-nav ul:not(.app-sub-sidebar) > li:not(.file)::before {
+      content: '';
+      display: block;
+      position: absolute;
+      top: 11px;
+      left: -12px;
+      height: 6px;
+      width: 6px;
+      border-right: 1px solid #505d6b;
+      border-bottom: 1px solid #505d6b;
+      transform: rotate(-45deg);
+      transition: transform 0.1s;
+    }
+
+    .sidebar-nav ul:not(.app-sub-sidebar) > li.open::before {
+      transform: rotate(45deg);
+    }
+
+    .sidebar-nav ul:not(.app-sub-sidebar) > li.collapse::before {
+      transform: rotate(-45deg);
+    }
+    /**/
+    /* Mine */
+    .beta_chip {
+      margin-left: 4px; color: #ff4081;
+      border: 1px solid #ff4081;
+      padding: 0px 6px;
+      border-radius: 10px;
+      font-size: smaller;
+    }
+    .img_caption {
+      font-size: small;
+      color: #808080;
+    }
+    .chrono_blue {
+      color: #4d90fe !important;
+    }
+    .teal {
+      color: #008080 !important;
+    }
+    .in_magenta {
+      padding: 0px 2px;
+      border: 1px dashed magenta;
+      color: magenta;
+      font-size: small;
+    }
+    .in_orange {
+      padding: 0px 2px;
+      border: 1px dashed orange;
+      color: orange;
+      font-size: small;
+    }
+    .in_yellow {
+      padding: 0px 2px;
+      border: 1px dashed #fec821;
+      color: #fec821;
+      font-size: small;
+    }
+    .in_blue {
+      padding: 0px 2px;
+      border: 1px dashed #4d90fe;
+      color: #4d90fe;
+      font-size: small;
+    }
+    .in_lightgreen {
+      padding: 0px 2px;
+      border: 1px dashed lightgreen;
+      color: lightgreen;
+      font-size: small;
+    }
+    .chip {
+      padding: 1px 6px;
+      border-radius: 12px;
+    }
+    .chip.blue {
+      color: white;
+      background-color: #4d90fe;
+    }
+    .chip.red {
+      color: white;
+      background-color: red;
+    }
+    .chip.green {
+      color: white;
+      background-color: green;
+    }
+    .def_no {
+      padding: 0px 2px;
+      border-radius: 2px;
+      background-color: red;
+      color: white;
+      text-transform: uppercase;
+      font-size: smaller;
+    }
+    .def_yes {
+      padding: 0px 2px;
+      border-radius: 2px;
+      background-color: green;
+      color: white;
+      text-transform: uppercase;
+      font-size: smaller;
+    }
+  </style>
+</body>
+</html>
