@@ -1,7 +1,7 @@
 # About This Site
 
-Chronux by &copy; ChronoScan Capture - 2020.
+ChronoLite by &copy; ChronoScan Capture - 2020.
 
 * Official websites
-    * [Chronux](https://chronoscan-capture.github.io/chronux/)
+    * [ChronoLite](https://chronoscan-capture.github.io/ChronoLite/)
     * [ChronoScan Capture](https://www.chronoscan.org)

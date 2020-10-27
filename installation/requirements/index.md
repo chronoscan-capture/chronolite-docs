@@ -1,8 +1,8 @@
 # Minimum requirements
 
-!> ChronoScan Capture Suite **Pro**, **Advanced** or **Enterprise** installed is required for Chronux to work.
+!> ChronoScan Capture Suite **Pro**, **Advanced** or **Enterprise** installed is required for ChronoLite to work.
 
-Chronux is available for windows OS
+ChronoLite is available for windows OS
 
 ## Windows OS
 
