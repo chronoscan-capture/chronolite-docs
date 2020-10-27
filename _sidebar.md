@@ -9,7 +9,7 @@
 * [HOME](./)
 * [Release notes](./release-notes/index)
 * [Contributions](./contributions/index)
-* [Installation](./installation/index)<>
+* [Installation](./installation/index)
   * [Requirements](./installation/requirements/index)
 * [DOCUMENTATION](./documentation/index)
   * [ChronoScan & ChronoLite](./documentation/chronoscan-and-chronolite/index)
