@@ -34,14 +34,14 @@ When ChronoScan Capture Suite is installed in your pc, it will automatically ins
 
 * Start ChronoScan and select the ChronoLite provided option.
 
-![Run ChronoLite 1](./../../images/documentation/chronoscan-and-ChronoLite/run_ChronoLite.PNG)  
+![Run ChronoLite 1](./../../images/documentation/chronoscan-and-chronolite/run_chronolite.PNG)  
 <small class="img_caption">Running ChronoLite from ChronoScan Capture Suite.</small>
 
 * If you have more than one ChronoScan configuration You can start ChronoLite from ChronoScan by opening ChronoScan and clicking in the <i>Run ChronoLite button</i>
 
 > **Note:** When running ChronoLite this way, ChronoLite will automatically be opened with the selected configuration.
 
-![Run ChronoLite 2](./../../images/documentation/chronoscan-and-ChronoLite/chronoscan_ChronoLite_launcher.png)  
+![Run ChronoLite 2](./../../images/documentation/chronoscan-and-chronolite/chronoscan_chronolite_launcher.png)  
 <small class="img_caption">Running ChronoLite from ChronoScan Capture Suite.</small>
 
 
