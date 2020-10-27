@@ -5,4 +5,4 @@
 
 [ChronoScan & ChronoLite](./documentation/chronoscan-and-chronolite/index.md)  
 [Installing demo examples](./documentation/installing-demo-jobs/index.md)  
-[ChronoLite](./documentation/ChronoLite/index.md)
+[ChronoLite](./documentation/chronolite/index.md)
