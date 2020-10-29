@@ -6,7 +6,7 @@
 
 ## Dark theme
 
-Dark theme is the default theme of ChronoLite.
+Dark is the default theme of ChronoLite.
 
 ![Dark theme](./../../../images/documentation/chronolite/themes/dark.PNG)
 <small class="img_caption">Dark theme dashboard</small>
