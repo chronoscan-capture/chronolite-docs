@@ -1,12 +1,11 @@
 <!-- docs/_sidebar.md -->
 
-<p style="text-align: center;"><b>ChronoLite - v1.0.1 <span 
-    class="beta_chip">BETA</span></b>
-    <!--<br />
-    <small style="text-align: center; font-size:x-small; color: #b7b7b7">Last updated. Oct. 2020</small>-->
-    </p>
-    
-* [HOME](./)
+<!--
+<p style="text-align: center;"><b>ChronoLite
+<span class="beta_chip">BETA</span></b>
+</p>
+-->
+* [HOME](/)
 * [Release notes](./release-notes/index)
 * [Contributions](./contributions/index)
 * [Installation](./installation/index)
