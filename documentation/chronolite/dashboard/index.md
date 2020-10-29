@@ -36,6 +36,7 @@ Located on top of the treeview
     * **More options**
         * **Refresh dashboard**
         * **Locate current batch**
+        * **Show/ Hide counters**
 
 
 ### <i class="mdi mdi-folder"></i> The job/ batches explorer
