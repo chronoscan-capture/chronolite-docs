@@ -15,6 +15,6 @@ Its divided into two mayor components:
     * Document image
     * Image viewer menu
 
-![Indexer](./../../../images/documentation/chronolite/indexer/indexer.PNG)  
+![Indexer](./../../../../images/documentation/chronolite/indexer/indexer.PNG)  
 <small>Indexer <span class="in_magenta">form</span> and <span class="in_lightgreen">image viewer</span>.</small>
 

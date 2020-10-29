@@ -15,18 +15,35 @@ The user settings <i class='mdi mdi-tune'></i> provides some features for the ap
 ![User menu](./../../../../images/documentation/chronolite/dashboard/user_settings.PNG)
 <small class="img_caption">User settings</small>
 
-* <i class='mdi mdi-delete-outline' style="color: orange"></i> Allow delete documents
-    * Default value is: <span class="def_no">NO</span>
-    * It shows/ hides the delete document option on the dashboard <span class="in_magenta">In magenta</span>
+### Job/ Batches treeview
 * <i class='mdi mdi-folder-plus-outline chrono_blue'></i> Show job actions menu
     * Default value is: <span class="def_yes">YES</span>
-    * It shows/ hides the [job actions menu](#job-actions-menu) <span class="in_yellow">In yellow</span>  
+    * It shows/ hides the [job actions menu](#job-actions-menu)
 * <i class='mdi mdi-database-export teal'></i> Show exported batches on treeview
     * Default value is: <span  class="def_yes">YES</span>
-    * It shows/ hides the exported batches on the [job/ batches treeview](#job-batches-treeview) <span class="in_blue">In blue</span>
+    * It shows/ hides the exported batches on the [job/ batches treeview](#job-batches-treeview)
+
+### Documents viewer
+* <i class='mdi mdi-delete-outline' style="color: orange"></i> Allow delete documents
+    * Default value is: <span class="def_no">NO</span>
+    * It shows/ hides the delete document option on the dashboard
+
 * <i class='mdi mdi-calendar grey'></i> Date created filter in ISO format
     * Default value is: <span  class="def_yes">YES</span>
-    * In ISO date format weeks start on Mondays and end in Sundays.
+    * In ISO date format weeks start on Mondays and end in Sundays
 
-![User menu](./../../../../images/documentation/chronolite/dashboard/user_settings_exp.PNG)
-<small class="img_caption">User settings toggles</small>
+### Theme
+* <i class='mdi mdi-brightness-6 white'></i> Dark theme    
+    * Default value is: <span class="def_yes">YES</span>
+    * It changes application theme between light/ dark mode
+
+### Advanced
+* <i class='mdi mdi-cookie grey'></i> Manage local storage
+    * Default value is: <span class="def_no">NO</span>
+    * Allows to manage local storage.
+        * SHOW LOCAL STORAGE
+        * DELETE LOCAL STORAGE
+            * To delete local storage a password will be asked
+            * Password for deleting local storage is 0000
+            * When deleting local storage, saved features, loaded batches, filters, current unsaved work and session will be destroyed and the application will be restored.
+
