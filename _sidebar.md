@@ -7,7 +7,7 @@
 -->
 * [HOME](/)
 * [Release notes](./release-notes/index)
-* [Contributions](./contributions/index)
+* [Languages](./languages/index)
 * [Installation](./installation/index)
   * [Requirements](./installation/requirements/index)
 * [DOCUMENTATION](./documentation/index)
@@ -41,6 +41,8 @@
       * [Pop-up field form](./documentation/chronolite/indexer/pop-up-field-form/index)
       * [Indexer settings](./documentation/chronolite/indexer/indexer-settings/index)
    * [THEMES](./documentation/chronolite/themes/index)
+* [Contributions](./contributions/index)
 * [About](./about/index)
 * [Contact](./contact/index)
+
 
