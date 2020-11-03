@@ -38,12 +38,13 @@ The user settings <i class='mdi mdi-tune'></i> provides some features for the ap
     * It changes application theme between light/ dark mode
 
 ### Advanced
-* <i class='mdi mdi-cookie grey'></i> Manage local storage
+* <i class='mdi mdi-cookie grey'></i> Developer tools
     * Default value is: <span class="def_no">NO</span>
-    * Allows to manage local storage.
+    * Opens developer tools.
+        * Password for developer tools is 0000
         * SHOW LOCAL STORAGE
         * DELETE LOCAL STORAGE
             * To delete local storage a password will be asked
-            * Password for deleting local storage is 0000
             * When deleting local storage, saved features, loaded batches, filters, current unsaved work and session will be destroyed and the application will be restored.
+        * OPEN CONSOLE
 
