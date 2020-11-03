@@ -1,6 +1,6 @@
 
 # Release notes
 
-* ### v1.0.1 - BETA
+* ### v2020.1.1-BETA
     * November 2020
 
