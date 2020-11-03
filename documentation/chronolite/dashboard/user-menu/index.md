@@ -38,7 +38,7 @@ The user settings <i class='mdi mdi-tune'></i> provides some features for the ap
     * It changes application theme between light/ dark mode
 
 ### Advanced
-* <i class='mdi mdi-cookie grey'></i> Developer tools
+* <i class='mdi mdi-shield-bug-outline grey'></i> Developer tools
     * Default value is: <span class="def_no">NO</span>
     * Opens developer tools.
         * Password for developer tools is 0000
