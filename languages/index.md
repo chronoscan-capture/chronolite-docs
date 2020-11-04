@@ -7,36 +7,35 @@ Learn about language contributions at [Contributions/ Languages](./contributions
 List of available languages
 
 * arabic
-* catalan    
-* chinese-Hant 
-* czech
-* english
-* german
-* hebrew
-* lithuanian
-* polish  
-* portuguese
-* portuguese-br  
-* russian
-* slovak  
-* spanish
-* thai  
-* vietnamese
 * bulgarian
-* chinese-Hans 
-* croatian  
+* catalan
+* chinese-Hans
+* chinese-Hant
+* croatian
+* czech
 * dutch
-* french
+* english 
+* french 
+* german
 * greek
+* hebrew 
 * italian
+* lithuanian
 * norwegian
-* romanian    
+* polish
+* portuguese
+* portuguese-br
+* romanian
+* russian
 * serbian
-* slovenian
-* swedish
-* turkish
+* slovak
+* slovenian 
+* spanish 
+* swedish 
+* thai 
+* turkish,
+* vietnamese
 
 ## RTL Support
 
 RTL support for Hebrew and Arabic languages.
-
