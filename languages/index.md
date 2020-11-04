@@ -6,35 +6,48 @@ Learn about language contributions at [Contributions/ Languages](./contributions
 
 List of available languages
 
-* arabic
-* bulgarian
-* catalan
-* chinese-Hans
-* chinese-Hant
-* croatian
-* czech
-* dutch
-* english 
-* french 
-* german
-* greek
-* hebrew 
-* italian
-* lithuanian
-* norwegian
-* polish
-* portuguese
-* portuguese-br
-* romanian
-* russian
-* serbian
-* slovak
-* slovenian 
-* spanish 
-* swedish 
-* thai 
-* turkish,
-* vietnamese
+<div style="width:100%; display: flex;">
+
+<div style="width:30%;">
+
+* Arabic
+* Bulgarian
+* Catalan
+* Chinese-Hans
+* Chinese-Hant
+* Croatian
+* Czech
+* Dutch
+* English 
+* French 
+* German
+* Greek
+* Hebrew 
+* Italian
+* Lithuanian
+
+</div>
+
+<div style="width:70%;">
+
+* Norwegian
+* Polish
+* Portuguese
+* Portuguese-br
+* Romanian
+* Russian
+* Serbian
+* Slovak
+* Slovenian 
+* Spanish 
+* Swedish 
+* Thai 
+* Turkish
+* Vietnamese
+
+</div>
+
+</div>
 
 ## RTL Support
 
