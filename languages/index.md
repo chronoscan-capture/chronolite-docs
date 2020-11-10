@@ -1,9 +1,6 @@
 
 # Languages
 
-> **Note:** Some languages are translated by the ChronoScan Community and might be uncompleted.  
-Learn about language contributions at [Contributions/ Languages](./contributions/index?id=languages)
-
 List of available languages
 
 <div style="width:100%; display: flex;">
@@ -49,6 +46,10 @@ List of available languages
 
 </div>
 
+> **Note:** Some languages are translated by the ChronoScan Community and might be uncompleted.  
+Learn about language contributions at [Contributions/ Languages](./contributions/index?id=languages)
+
 ## RTL Support
 
 RTL support for Hebrew and Arabic languages.
+
