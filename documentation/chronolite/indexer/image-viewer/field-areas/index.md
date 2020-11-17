@@ -37,21 +37,24 @@ or by drawing a zone with the mouse over the area we want to select the values f
 
 ### Deleting field areas
 
-!> **important** In order to delete field areas, [pop-up field forms](./documentation/chronolite/indexer/pop-up-field-form/index) must be activated on the [indexer settings](./documentation/chronolite/indexer/indexer-settings/index).
+#### 1. Deleting field areas when pop-up forms are activated
 
 Select either the field with the area or the area itself to make the pop-up form appear.
 
 * Once the pop-up form is visible, see the two buttons inside the <span class="in_magenta">Rectangle</span> on below image
 
-<div style="border: 1px solid grey">
-
-![Deleting text areas](./../../../../../images/documentation/chronolite/indexer/delete_field_area.PNG)  
-
-</div>
-<small class="img_caption">Deleting text areas</small>
+![Deleting text areas](./../../../../../images/documentation/chronolite/indexer/delete_field_area.PNG#bordered)  
+<small class="img_caption">Deleting text areas areas with pop-up form</small>
 
 * <i class="mdi mdi-close-circle" style="color: red;"></i> Delete text area and **also the field value**
 * <i class="mdi mdi-texture-box" style="color: red;"></i> Delete **only** the text area
 
+
+#### 2. Deleting field areas when pop-up forms are deactivated
+
+When the pop-up form are deactivated (See [indexer settings](./documentation/chronolite/indexer/indexer-settings/index)) the button to delete a text area is located in the field infomation panel on the form.
+
+![Deleting text areas](./../../../../../images/documentation/chronolite/indexer/delete_field_areas_no_pop.PNG#bordered)  
+<small class="img_caption">Deleting text areas with no pop-up form</small>
 
 
