@@ -6,7 +6,7 @@ Users will be asked the first time the dashboard is entered if they allow the ap
 * Internet connection is necessary to activate this feature.
 * All data collected is only used for developers to improve performance and users experience.
 * It is optional and it can always be changed under 'User menu' / 'User settings' / 'Advanced'.
-* Default value for this setting is: <span class="def_no">Yes</span>
+* Default value for this setting is: <span class="def_yex">Yes</span>
 
 
 First prompt
