@@ -20,13 +20,13 @@ List of available languages
 * German
 * Greek
 * Hebrew 
-* Italian
-* Lithuanian
 
 </div>
 
 <div style="width:70%;">
 
+* Italian
+* Lithuanian
 * Norwegian
 * Polish
 * Portuguese
