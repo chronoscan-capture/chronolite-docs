@@ -31,14 +31,14 @@ List of available languages
 * Polish
 * Portuguese
 * Portuguese-br
-* Romanian
+<!--* Romanian -->
 * Russian
 * Serbian
 * Slovak
 * Slovenian 
 * Spanish 
-* Swedish 
-* Thai 
+<!--* Swedish -->
+<!--* Thai -->
 * Turkish
 * Vietnamese
 
