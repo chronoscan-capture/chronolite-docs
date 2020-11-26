@@ -42,6 +42,7 @@
       * [Pop-up field form](./documentation/chronolite/indexer/pop-up-field-form/index)
       * [Indexer settings](./documentation/chronolite/indexer/indexer-settings/index)
    * [THEMES](./documentation/chronolite/themes/index)
+   * [Log file](./documentation/log-file.md)
 * [Contributions](./contributions/index)
 * [About](./about/index)
 * [Contact](./contact/index)
