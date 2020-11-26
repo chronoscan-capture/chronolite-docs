@@ -8,6 +8,15 @@ Users will be asked the first time the dashboard is entered if they allow the ap
 * It is optional and it can always be changed under 'User menu' / 'User settings' / 'Advanced'.
 * Default value for this setting is: <span class="def_no">No</span>
 
+
+First prompt
+
+![Analitics menu](./../../images/documentation/tours/welcome_page.PNG)  
+<small class="img_caption">First dashboard enter propmt. </small>
+
+
+Enable/ Disable data collection
+
 ![Analitics menu](./../../images/documentation/analytics/analytics_menu.PNG)  
 <small class="img_caption">Analytics and user interaction data collection switch. </small>
 
