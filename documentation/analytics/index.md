@@ -11,7 +11,7 @@ Users will be asked the first time the dashboard is entered if they allow the ap
 
 First prompt
 
-![Analitics menu](./../../images/documentation/tours/welcome_page.PNG)  
+![Analitics menu](./../../images/documentation/tours/welcome_page_2.PNG)  
 <small class="img_caption">First dashboard enter propmt. </small>
 
 
