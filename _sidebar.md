@@ -11,6 +11,7 @@
 * [Installation](./installation/index)
   * [Requirements](./installation/requirements/index)
 * [DOCUMENTATION](./documentation/index)
+  * [Checking current version](./documentation/checking-current-version)
   * [Analytics & data collection](./documentation/analytics/index)
   * [ChronoScan & ChronoLite](./documentation/chronoscan-and-chronolite/index)
   * [Installing demo examples](./documentation/installing-demo-jobs/index)

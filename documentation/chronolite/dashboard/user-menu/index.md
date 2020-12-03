@@ -4,7 +4,7 @@
 The user menu <span style="border: 1px solid darkgrey; background: grey; padding:2px 4px; border-radius: 2px;"><i class="mdi mdi-menu" style="color: white;"></i></span> is located in the top-right
 corner of the dashboard and it has the following options.
 
-![User menu](./../../../../images/documentation/chronolite/dashboard/userMenu.PNG)
+![User menu](./../../../../images/documentation/chronolite/dashboard/userMenu.PNG)  
 <small class="img_caption">User menu</small>
 
 
