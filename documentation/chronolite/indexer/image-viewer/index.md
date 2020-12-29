@@ -8,5 +8,5 @@ The image viewer holds the current document page we are working on and the image
 
 ### Image viewer keyboard shortcuts
 
-![Control menu](./../../../../images/documentation/chronolite/indexer/keyshortcuts.PNG) 
+![Control menu](./../../../../images/documentation/chronolite/indexer/keyshortcuts.PNG)  
 <small class="img_caption">Image viewer keyboard shortcuts</small>
