@@ -32,7 +32,7 @@
 ### Tabs bar
 
 * <i class="mdi mdi-file-document-outline"></i> It shows only current documents and pages thumbs
-* <i class="mdi mdi-file-document-multiple-outline" style="color: red;"></i> It shows all documents and pages for indexing documents
+* <i class="mdi mdi-file-document-multiple-outline"></i> It shows all documents and pages for indexing documents
 
 
 ### Thumbs
