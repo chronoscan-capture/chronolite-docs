@@ -24,18 +24,18 @@
 
 <small class="img_caption">*Opening/ closing thumb viewer button on form main toolbar</small>
 
-## Toolbar
+### Toolbar
 
 * <i class="mdi mdi-target"></i> Locates current working document page
 * <i class="mdi mdi-close" style="color: red;"></i> Closes Thumb viewer
 
-## Tabs bar
+### Tabs bar
 
 * <i class="mdi mdi-file-document-outline"></i> It shows only current documents and pages thumbs
 * <i class="mdi mdi-file-document-multiple-outline" style="color: red;"></i> It shows all documents and pages for indexing documents
 
 
-## Thumbs
+### Thumbs
 
 * It shows the image thumbs of the documents and pages depending on selected tab
 * It shows validation state of documents on page information background color. <span style="color: green;">Green</span> for validated, <span style="color: red;">red</span> for document with errors
