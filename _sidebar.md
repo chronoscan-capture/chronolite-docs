@@ -40,6 +40,7 @@
         * [Field areas](./documentation/chronolite/indexer/image-viewer/field-areas/index) 
         * [Selecting values from the image](./documentation/chronolite/indexer/image-viewer/field-areas/index?id=selecting-values-from-the-image)
         * [Deleting field areas](./documentation/chronolite/indexer/image-viewer/field-areas/index?id=deleting-field-areas)
+      * [Thumb viewer](./documentation/chronolite/indexer/thumb-viewer/index)
       * [Pop-up field form](./documentation/chronolite/indexer/pop-up-field-form/index)
       * [Indexer settings](./documentation/chronolite/indexer/indexer-settings/index)
    * [THEMES](./documentation/chronolite/themes/index)

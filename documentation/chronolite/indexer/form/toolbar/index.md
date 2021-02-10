@@ -9,12 +9,13 @@ Located on on top of the form fields.
 
 First row: Buttons.
 
-* <span style="background:red; color: white; padding: 2px 4px; border-radius: 2px;">EXIT</span> Exit back to dashboard.
-* <i class="mdi mdi-cog"></i> [Indexer settings](./../../../../documentation/chronolite/indexer/indexer-settings/index).
-* <i class="mdi mdi-information-outline"></i> Indexer information.
-* <i class="mdi mdi-keyboard-outline"></i> Indexer keyboard shortcuts.
-* <i class="mdi mdi-script"></i> Scripts log.
-* <i class="mdi mdi-book-outline"></i> Indexer documentation.
+* <span style="background:red; color: white; padding: 2px 4px; border-radius: 2px;">EXIT</span> Exit back to dashboard
+* <i class="mdi mdi-cog"></i> [Indexer settings](./../../../../documentation/chronolite/indexer/indexer-settings/index)
+* <i class="mdi mdi-information-outline"></i> Indexer information
+* <i class="mdi mdi-keyboard-outline"></i> Indexer keyboard shortcuts
+* <i class="mdi mdi-script"></i> Scripts log
+* <i class="mdi mdi-book-outline"></i> Indexer documentation
+* <i class="mdi mdi mdi-file-document-multiple-outline"></i> Toggle thumb viewer
 
 Second row: Info.
 
@@ -32,9 +33,9 @@ Third row: Field selected information.
 ![Field selected](./../../../../../images/documentation/chronolite/indexer/fieldsel.PNG)  
 <small class="img_caption">Current field selected</small>
 
-* <i class="mdi mdi-close-circle"></i> Deselects current field.
+* <i class="mdi mdi-close-circle"></i> Deselects current field
 * <i class="mdi mdi-calculator" style="color: gold"></i> Calculator*
-> *Calculator is only available for NUMERIC fields.
+> *Calculator is only available for NUMERIC fields
 
 ![Field selected](./../../../../../images/documentation/chronolite/indexer/calculator.PNG)  
 <small class="img_caption">Calculator snapshot</small>

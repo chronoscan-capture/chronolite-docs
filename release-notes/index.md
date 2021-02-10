@@ -5,6 +5,10 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### v2021.1.1\c18d4d3
+    * Date: 2021/02/10 (BETA)
+    * [**Thumb viewer**](./documentation/chronolite/indexer/thumb-viewer/index) added to the indexer
+
 * ### v2021.1.1\dc9ed35
     * Date: 2021/02/05 (BETA)
     * Upload file limit increased from 128 KB to 500000 KB

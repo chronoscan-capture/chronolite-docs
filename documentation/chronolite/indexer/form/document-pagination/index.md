@@ -11,3 +11,6 @@ Located at the bottom of the indexer form.
 * **Document [current document]/[total documents] menu**: Go to a specific document.
 * <i class="mdi mdi-chevron-double-right"></i> Go to next document.
 * <i class="mdi mdi-chevron-triple-right"></i> Go to last document.
+
+> **Note** Document and pages navigation can alos be done through [**The thumb viewer**](./documentation/chronolite/indexer/thumb-viewer/index) 
+
