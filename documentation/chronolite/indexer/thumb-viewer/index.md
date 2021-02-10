@@ -10,7 +10,7 @@
 
 !> By default the thumb viewer does not show when entering the indexer for the first time
 
-<img align="center" src="./../../../../images/documentation/chronolite/indexer/thumbviewer_main.jpg" class="centered" width="auto" height="500">  
+<img align="center" src="./images/documentation/chronolite/indexer/thumbviewer_main.jpg" class="centered" width="auto" height="500">  
 
 <small class="img_caption">*Thumbs viewer</small>
 
@@ -20,7 +20,7 @@
 * The thumb viewer can be opened and closed on the following form view button.
 * It can also be closed on thumb viewer toolbar button <i class="mdi mdi-close" style="color: red;"></i>
 
-<img align="center" src="./../../../../images/documentation/chronolite/indexer/toolbar_w_thumbv.png" class="centered" width="auto" height="auto">  
+<img align="center" src="./images/documentation/chronolite/indexer/toolbar_w_thumbv.png" class="centered" width="auto" height="auto">  
 
 <small class="img_caption">*Opening/ closing thumb viewer button on form main toolbar</small>
 
