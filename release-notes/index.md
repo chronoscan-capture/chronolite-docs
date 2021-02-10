@@ -5,7 +5,7 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
-* ### v2021.1.1\c18d4d3
+* ### v2021.1.1\17d00a8
     * Date: 2021/02/10 (BETA)
     * [**Thumb viewer**](./documentation/chronolite/indexer/thumb-viewer/index) added to the indexer
 
