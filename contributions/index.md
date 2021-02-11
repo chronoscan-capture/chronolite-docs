@@ -11,7 +11,7 @@ This documentation can be edited on GitHub.
 
 If you want to contribute translating ChronoScan and get a **ChronoScan Adv License for free** send us an email to [chronoscan@chronoscan.org](mailto:chronoscan@chronoscan.org?subject=Translation) or visit [chronoscan.org](https://www.chronoscan.org) and look for the following image on the home page.
 
-![ChronoScan translations](./../images/documentation/contributions/translation_pak.PNG#bordered)  
+![ChronoScan translations](./../images/documentation/contributions/translation_pak.PNG)  
 <small class="img_caption">chronoscan.org translation contribution location.</small>
 
 
