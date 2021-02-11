@@ -1,7 +1,7 @@
 
 # Thumb viewer
 
-* The thumb viewer lets you preview and navigate thtough all documents opened on the indexer
+* The thumb viewer lets you preview and navigate through all documents opened on the indexer
 * It is an **optional** widget that can be opened and closed on demand
 * It is composed of three main components
     * Toolbar
