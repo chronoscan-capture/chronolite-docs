@@ -7,17 +7,17 @@
 
 * ### v2021.1.1\245edd7
     * 2021/03/16 (BETA)
-    * **Reprocess document** on indexer
-    * Added data grids v2 (Get/Set)
+    * <i class="mdi mdi-flash"></i> **Reprocess document** button on indexer
+    * <i class="mdi mdi-grid"></i> Added data grids v2 (Get/Set)
 
 * ### v2021.1.1\6765729
     * 2021/03/01 (BETA)
-    * Added data grids v1 (Get)
+    * <i class="mdi mdi-grid"></i> Added data grids v1 (Get) 
     * Improved performance
 
 * ### v2021.1.1\17d00a8
     * 2021/02/10 (BETA)
-    * [**Thumb viewer**](./documentation/chronolite/indexer/thumb-viewer/index) added to the indexer
+    * <i class="mdi mdi-image-multiple-outline"></i> [**Thumb viewer**](./documentation/chronolite/indexer/thumb-viewer/index) added to the indexer
 
 * ### v2021.1.1\dc9ed35
     * 2021/02/05 (BETA)
@@ -26,4 +26,4 @@
         * ${InstallationDirectory}/ChronoScan/bin/wt_config_lite.xml
 
 * ### v2021.1.1-BETA
-    * Jan. 2021    
+    * Jan. 2021   
