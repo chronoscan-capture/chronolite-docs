@@ -5,9 +5,14 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### v2021.1.1\245edd7
+    * 2021/03/16 (BETA)
+    * **Reprocess document** on indexer
+    * Added data grids v2 (Get/Set)
+
 * ### v2021.1.1\6765729
     * 2021/03/01 (BETA)
-    * Added data grids v1 
+    * Added data grids v1 (Get)
     * Improved performance
 
 * ### v2021.1.1\17d00a8
