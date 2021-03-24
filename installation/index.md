@@ -13,7 +13,7 @@ Executable installers are available for download on the ChronoScan official webs
 
 ## Direct installer request
 
-If you are a Chronoscan reseller or a current user of ChronoScan and are interested in trying the new ChronoLite UI, write us an email to [chronolite@chronoscan.com](mailto:chronolite@chronoscan.com?subject=[Reseller%20ChronoLite%20installation%20exe%20request]) and we will provide the direct download link.
+If you are a Chronoscan reseller or a current user of ChronoScan and are interested in trying the new ChronoLite UI, write us an email to [chronolite@chronoscan.org](mailto:chronolite@chronoscan.org?subject=[Reseller%20ChronoLite%20installation%20exe%20request]) and we will provide the direct download link.
 
 * The installation executable is named ChronoScanSetup.exe, and it will install/update (if already installed) ChronoScan Capture Suite with the new option for running ChronoLite UI, keeping your configurations.
 
