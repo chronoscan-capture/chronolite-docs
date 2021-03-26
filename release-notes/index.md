@@ -5,6 +5,11 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### v2021.1.1\343409c
+    * 2021/03/26 (BETA)
+    * Indexer settings made persistent
+    * Resources report on developer settings
+
 * ### v2021.1.1\a5c5044
     * 2021/03/16 (BETA)
     * <i class="mdi mdi-flash"></i> **Reprocess document** button on indexer
