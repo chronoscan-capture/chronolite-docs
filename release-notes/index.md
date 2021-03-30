@@ -17,7 +17,7 @@
     * Resources report on developer settings
 
 * ### v2021.1.1\a5c5044
-    * 2021/03/16 (BEbetaTA)
+    * 2021/03/16 (beta)
     * <i class="mdi mdi-flash"></i> **Reprocess document** button on indexer
     * <i class="mdi mdi-grid"></i> Added data grids v2 (Get/Set)
 
