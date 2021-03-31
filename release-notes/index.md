@@ -6,8 +6,8 @@
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
 
-* ### 0.2.50-beta\518c32c
-    * 2021/03/30 (beta)
+* ### 0.2.50-beta\e44f80c
+    * 2021/03/31 (beta)
     * Versioning (SemVer)
     * Updates prompt on dashboard
 
