@@ -7,7 +7,7 @@
 
 * ### 0.2.50-beta\80e467d
     * 2021/04/07 (beta)
-    * <i class="mdi mdi-lock"></i> Locked/ Unlocked batches syncronization across ChronoScan platforms
+    * <i class="mdi mdi-lock"></i> Locked/ Unlocked batches synchronization across ChronoScan platforms
 
 * ### 0.2.50-beta\e44f80c
     * 2021/03/31 (beta)
