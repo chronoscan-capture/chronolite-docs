@@ -50,13 +50,14 @@ When a batch is clicked, this is loaded and its documents are listed on the docu
 
 Job/ batches explorer icon legend:
 
-* <i class="mdi mdi-folder" style="color: green"></i> Job with all batches validated.
-* <i class="mdi mdi-folder" style="color: red"></i> Job with at least one batch with errors.
-* <i class="mdi mdi-minidisc" style="color: green"></i> Batch with all documents validated.
-* <i class="mdi mdi-minidisc" style="color: red"></i> Batch with at least one document with errors.
-* <i class="mdi mdi-minidisc" style="color: silver"></i> Empty batch.
-* <i class="mdi mdi-database-export teal"></i> Batch exported successfully.
-* <i class="mdi mdi-database-export" style="color: orange"></i> Batch exported with errors.
+* <i class="mdi mdi-folder" style="color: green"></i> Job with all batches validated
+* <i class="mdi mdi-folder" style="color: red"></i> Job with at least one batch with errors
+* <i class="mdi mdi-minidisc" style="color: green"></i> Batch with all documents validated
+* <i class="mdi mdi-minidisc" style="color: red"></i> Batch with at least one document with errors
+* <i class="mdi mdi-minidisc" style="color: silver"></i> Empty batch
+* <i class="mdi mdi-database-export teal"></i> Batch exported successfully
+* <i class="mdi mdi-database-export" style="color: orange"></i> Batch exported with errors
+* <i class="mdi mdi-lock" style="color: gold"></i> Batch locked by another user or process
 
 ### The job actions menu
 
