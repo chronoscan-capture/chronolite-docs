@@ -5,6 +5,10 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### 0.2.50-beta\0afed2b
+    * 2021/04/12 (beta)
+    * New application frame
+
 * ### 0.2.50-beta\80e467d
     * 2021/04/07 (beta)
     * <i class="mdi mdi-lock"></i> Locked/ Unlocked batches synchronization across ChronoScan platforms
