@@ -24,26 +24,28 @@ When ChronoScan Capture Suite is installed in your pc, it will automatically ins
     <div style=' display: inline-block;'>
         <!--<img align="center" src="./../../images/clock_forward_40.png" alt="ChronoLite launcher icon">-->
 
-![ChronoLite launcher icon](./../../images/clock_forward_40.png)  
-        <small class="img_caption">ChronoLite launcher icon</small>
+<img src="./../../images/app_ico.png" width="40" height="auto" />  
+        <br/><small class="img_caption">ChronoLite launcher icon</small>
     </div>
 </div>
 <br />
 
 ## Starting ChronoLite
 
+<!--
 * Start ChronoScan and select the ChronoLite provided option.
 
 ![Run ChronoLite 1](./../../images/documentation/chronoscan-and-chronolite/run_chronolite.PNG)  
 <small class="img_caption">Running ChronoLite from ChronoScan Capture Suite.</small>
 
 > **Note:** You can disable this prompt window on 'ChronoScan Suite' / 'Administration' / 'Program Settings' / 'ChronoScan/ChronoLite init dialog ON' checkbox
+-->
 
 * If you have more than one ChronoScan configuration You can start ChronoLite from ChronoScan by opening ChronoScan and clicking in the <i>Run ChronoLite button</i>
 
 > **Note:** When running ChronoLite this way, ChronoLite will automatically be opened with the selected configuration
 
-![Run ChronoLite 2](./../../images/documentation/chronoscan-and-chronolite/chronoscan_chronolite_launcher.png)  
+![Run ChronoLite](./../../images/documentation/chronoscan-and-chronolite/chronoscan_chronolite_launcher.png)  
 <small class="img_caption">Running ChronoLite from ChronoScan Capture Suite.</small>
 
 
