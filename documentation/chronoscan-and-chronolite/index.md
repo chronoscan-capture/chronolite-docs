@@ -24,8 +24,8 @@ When ChronoScan Capture Suite is installed in your pc, it will automatically ins
     <div style=' display: inline-block;'>
         <!--<img align="center" src="./../../images/clock_forward_40.png" alt="ChronoLite launcher icon">-->
 
-<img src="./../../images/app_ico.png" width="40" height="auto" />  
-        <br/><small class="img_caption">ChronoLite launcher icon</small>
+![ChronoLite launcher icon](./../../images/app_ico_40.png)    
+        <small class="img_caption">ChronoLite launcher icon</small>
     </div>
 </div>
 <br />
