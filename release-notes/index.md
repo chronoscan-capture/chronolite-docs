@@ -5,6 +5,12 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### 0.2.50-beta\40e5899
+    * 2021/04/14 (beta)
+    * History log for indexed batches
+    * Job/Batches treeview modified w/ history accordion
+    * Reload explorer
+
 * ### 0.2.50-beta\0afed2b
     * 2021/04/12 (beta)
     * New application frame
