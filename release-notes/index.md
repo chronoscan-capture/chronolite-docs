@@ -5,6 +5,14 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+
+* ### 0.2.50-beta\4a72c71
+    * 2021/04/19 (beta)
+    * Enterprise configurations: 
+        * Finish batch functionallity (Sets finished batches to 'ready_to_export' status)
+        * Batch status on explorer
+    * Toggle empty batches on explorer
+
 * ### 0.2.50-beta\40e5899
     * 2021/04/14 (beta)
     * History log for indexed batches
