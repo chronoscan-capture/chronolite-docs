@@ -6,6 +6,12 @@
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
 
+* ### 0.2.50-beta\4074f56
+    * 2021/04/23 (beta)
+    * Enqueded batches functionality
+    * Change working configuration on dashboard
+    * Improved performance
+
 * ### 0.2.50-beta\4a72c71
     * 2021/04/19 (beta)
     * Enterprise configurations: 
