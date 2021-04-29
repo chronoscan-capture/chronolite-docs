@@ -3,6 +3,23 @@
 
 List of available languages
 
+* Bulgarian
+* Chinese-Hans
+* Chinese-Hant
+* Croatian
+* Dutch
+* English
+* French
+* German
+* Lithuanian
+* Norwegian
+* Portuguese-br
+* Portuguese
+* Turkish
+* Spanish
+
+<!--
+
 <div style="width:100%; display: flex;">
 
 <div style="width:30%;">
@@ -31,14 +48,11 @@ List of available languages
 * Polish
 * Portuguese
 * Portuguese-br
-<!--* Romanian -->
 * Russian
 * Serbian
 * Slovak
 * Slovenian 
 * Spanish 
-<!--* Swedish -->
-<!--* Thai -->
 * Turkish
 * Vietnamese
 
@@ -46,10 +60,15 @@ List of available languages
 
 </div>
 
+-->
+
 > **Note:** Some languages are translated by the ChronoScan Community and might be uncompleted.  
 Learn about language contributions at [Contributions/ Languages](./contributions/index?id=languages)
+
+<!--
 
 ## RTL Support
 
 RTL support for Hebrew and Arabic languages.
 
+-->
