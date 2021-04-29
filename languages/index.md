@@ -12,7 +12,6 @@ List of available languages
 * French
 * German
 * Lithuanian
-* Norwegian
 * Portuguese-br
 * Portuguese
 * Turkish
