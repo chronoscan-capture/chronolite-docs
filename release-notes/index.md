@@ -5,11 +5,10 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
-<!--
-* ### 0.2.51-beta\4074f56
+
+* ### 0.2.51-beta\b0025e3
     * 2021/05/21 (beta)
     * Significant changes to performance and indexer canvas
--->
 
 * ### 0.2.50-beta\4074f56
     * 2021/04/23 (beta)
