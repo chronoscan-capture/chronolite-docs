@@ -8,6 +8,7 @@
 * ### 0.2.60-beta\16311a7
     * 2021/06/01 (beta)
     * xgrid panel updated
+    * indexer layout modified
 
 * ### 0.2.51-beta\b0025e3
     * 2021/05/21 (beta)
