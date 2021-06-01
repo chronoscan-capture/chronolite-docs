@@ -5,6 +5,9 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### 0.2.60-beta\16311a7
+    * 2021/06/01 (beta)
+    * xgrid panel updated
 
 * ### 0.2.51-beta\b0025e3
     * 2021/05/21 (beta)
