@@ -5,13 +5,14 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+<!--
 * ### 0.2.60-beta\21b4613
     * 2021/06/03 (beta)
     * Indexer
         * Improved form speed
         * xgrid multiselection
         * Zoom image on ctrl + mousewheel
-
+-->
 * ### 0.2.60-beta\16311a7
     * 2021/06/01 (beta)
     * xgrid panel updated
