@@ -5,14 +5,17 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
-<!--
-* ### 0.2.60-beta\21b4613
-    * 2021/06/03 (beta)
+
+* ### 0.2.60-beta\bf3e392
+    * 2021/06/04 (beta)
     * Indexer
         * Improved form speed
-        * xgrid multiselection
-        * Zoom image on ctrl + mousewheel
--->
+        * Canvas cursor/drawing mode information
+        * xgrid multiselection (ctrl + arrow up/down)
+        * Zoom image w/ mouse (ctrl + mousewheel)
+    * Dashboard
+        * History panel enter/leave status arrows
+
 * ### 0.2.60-beta\16311a7
     * 2021/06/01 (beta)
     * xgrid panel updated
