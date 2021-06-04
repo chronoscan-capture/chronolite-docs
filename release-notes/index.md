@@ -10,7 +10,7 @@
     * Indexer
         * Improved form speed
         * Canvas cursor/drawing mode information
-        * xgrid multiselection (ctrl + arrow up/down)
+        * xgrid multiselection (shift + arrow up/down)
         * Zoom image w/ mouse (ctrl + mousewheel)
     * Dashboard
         * History panel enter/leave status arrows
