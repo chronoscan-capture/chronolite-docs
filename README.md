@@ -1,6 +1,6 @@
 
 # Welcome to ChronoLite!
-#### [**ChronoScan**](https://chronoscan.org) New User eXperience.
+#### End-users indexing interface
 
 ChronoLite is a new plug-in desktop application for the ChronoScan Capture Suite to give final users a straightforward and lightweight interface for indexing, managing and correcting processed documents with all of the power and flexibility of ChronoScan applications.
 
