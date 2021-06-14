@@ -32,15 +32,6 @@ When ChronoScan Capture Suite is installed in your pc, it will automatically ins
 
 ## Starting ChronoLite
 
-<!--
-* Start ChronoScan and select the ChronoLite provided option.
-
-![Run ChronoLite 1](./../../images/documentation/chronoscan-and-chronolite/run_chronolite.PNG)  
-<small class="img_caption">Running ChronoLite from ChronoScan Capture Suite.</small>
-
-> **Note:** You can disable this prompt window on 'ChronoScan Suite' / 'Administration' / 'Program Settings' / 'ChronoScan/ChronoLite init dialog ON' checkbox
--->
-
 * If you have more than one ChronoScan configuration You can start ChronoLite from ChronoScan by opening ChronoScan and clicking in the <i>Run ChronoLite button</i>
 
 > **Note:** When running ChronoLite this way, ChronoLite will automatically be opened with the selected configuration
@@ -48,4 +39,13 @@ When ChronoScan Capture Suite is installed in your pc, it will automatically ins
 ![Run ChronoLite](./../../images/documentation/chronoscan-and-chronolite/chronoscan_chronolite_launcher.png)  
 <small class="img_caption">Running ChronoLite from ChronoScan Capture Suite.</small>
 
+## Command line
+
+Chronolite can be run directly from the command line adding the argument **-lite** to ChronoScan.exe:
+
+>_since: 0.2.60\afcaa34 (June2021)_
+
+```
+cmd>${ChronoScan_Installation_Directory}\ChronoScan\Bin\ChronoScan.exe -customdir:"${ChronoScan_Configuration_Directory}\Chronoscan.[Config_Name]" -lite
+```
 
