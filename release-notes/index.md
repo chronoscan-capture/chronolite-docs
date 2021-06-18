@@ -5,7 +5,7 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
-* ### 0.2.60-beta\3e189a3
+* ### 0.2.60-beta\5ea088c
     * 2021/06/18 (beta)
     * Indexer
         * Enable/Disable ChronoScan scripts while indexing
