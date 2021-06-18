@@ -5,6 +5,15 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### 0.2.60-beta\3e189a3
+    * 2021/06/18 (beta)
+    * Indexer
+        * Enable/Disable ChronoScan scripts while indexing
+    * Dashboard
+        * Enqueued panel removed/integrated into explorer
+        * Explorer panel server-side filtering
+        * Explorer new filtering configuration functionality
+
 * ### 0.2.60-beta\bf3e392
     * 2021/06/04 (beta)
     * Indexer
