@@ -15,7 +15,7 @@
         * Explorer new filtering configuration functionality
     * Command line
         * Added argument for opening ChronoLite from command line:  
-            * ${Installation_Dir}\ChronoScan\Bin>ChronoScan.exe -customdir:"${ChronoScan_Configuration_Dir}\ChronoScan.${Config_Name}" **-lite**
+            * ${Installation_Dir}\ChronoScan\Bin>ChronoScan.exe -customdir:"${ChronoScan_Configuration_Dir}\ChronoScan.${Config_Name}" **-lite** 
 
 * ### 0.2.60-beta\bf3e392
     * 2021/06/04 (beta)
