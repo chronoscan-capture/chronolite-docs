@@ -40,11 +40,9 @@ The user settings <i class='mdi mdi-tune'></i> provides some features for the ap
 ### Advanced
 * <i class='mdi mdi-shield-bug-outline grey'></i> Developer tools
     * Default value is: <span class="def_no">NO</span>
-    * Opens developer tools.
-        * Password for developer tools is 0000
+    * Opens developer tools
         * SHOW LOCAL STORAGE
         * DELETE LOCAL STORAGE
-            * To delete local storage a password will be asked
             * When deleting local storage, saved features, loaded batches, filters, current unsaved work and session will be destroyed and the application will be restored.
         * OPEN CONSOLE
 
