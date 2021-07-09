@@ -5,6 +5,11 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+
+* ### 0.2.63-beta\b302acf
+    * 2021/07/09 (beta)
+    * Indexer pagination made floating controls
+
 * ### 0.2.61-beta\09cb796
     * 2021/07/07 (beta)
     * Official Release for beta version
