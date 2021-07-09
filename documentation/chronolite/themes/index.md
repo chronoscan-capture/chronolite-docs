@@ -15,6 +15,6 @@ Dark is the default theme of ChronoLite.
 
 To change between themes see [User settings / Theme](./documentation/chronolite/dashboard/user-menu/index?id=theme).
 
-![Dark theme](./../../../images/documentation/chronolite/themes/light.PNG#bordered)  
+![light theme](./../../../images/documentation/chronolite/themes/light.PNG)  
 <small class="img_caption">Light theme dashboard</small>
 
