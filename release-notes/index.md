@@ -5,6 +5,11 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### 0.2.61-beta\09cb796
+    * 2021/07/7 (beta)
+    * Official Release for beta version
+    * [ChronoScan Release Notes v.1.0.2.62](https://chronoscan.org/features_whats-new.asp)
+
 * ### 0.2.60-beta\5ea088c
     * 2021/06/18 (beta)
     * Indexer
