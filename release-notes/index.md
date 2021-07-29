@@ -5,6 +5,15 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### 0.2.63-beta\56a5774
+    * 2021/07/29 (beta)
+    * Implemented ChronoScan field properties
+        * <i class="mdi mdi-stamper"></i> Sticky fields
+        * Show only on Type
+        * Hide by type name
+    * <i class="mdi mdi-bug"></i> Bugs
+        * Invalid date format from datepicker 
+        * OnValueChanged field event script
 
 * ### 0.2.63-beta\b302acf
     * 2021/07/09 (beta)
