@@ -5,6 +5,10 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### 0.2.64-beta\d053ac6
+    * 2021/08/19 (beta)
+    * OnValueChanged Document scripting integration 
+
 * ### 0.2.63-beta\56a5774
     * 2021/07/29 (beta)
     * Implemented ChronoScan field properties
