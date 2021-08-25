@@ -5,8 +5,8 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
-* ### 0.2.64-beta\abb4850
-    * 2021/08/24 (beta)
+* ### 0.2.64-beta\758e6e6
+    * 2021/08/25 (beta)
     * <i class="mdi mdi-magnify"></i> [Search in page function added on indexer](./documentation/chronolite/indexer/image-viewer/controls-menu/index)
 
 * ### 0.2.64-beta\d053ac6
