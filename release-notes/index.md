@@ -5,6 +5,16 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+
+* ### 0.2.64-beta\5f83d7d
+    * 2021/09/13 (beta)
+    * Indexer
+        * Reset document to default values button
+        * Thumb viewer
+            * Rotate pag 90º right
+            * Rotate pag 90º left
+            * Rotate pag 180º
+
 * ### 0.2.64-beta\758e6e6
     * 2021/08/25 (beta)
     * <i class="mdi mdi-magnify"></i> [Search in page function added on indexer](./documentation/chronolite/indexer/image-viewer/controls-menu/index)
