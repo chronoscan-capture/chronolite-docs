@@ -5,6 +5,9 @@
 
 > **Note:** To check your current version installed or if a newer version is avalialable see [**Checking current version**](./documentation/checking-current-version).
 
+* ### 0.2.64-beta\194acfe
+    * 2021/10/05 (beta)
+    * xGrid selection higlighted on image viewer
 
 * ### 0.2.64-beta\7bca39d
     * 2021/10/01 (beta)
